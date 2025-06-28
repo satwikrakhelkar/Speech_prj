@@ -1,0 +1,4 @@
+# This file lists the Python package dependencies for the project.
+SpeechRecognition==3.8.1
+pyaudio==0.2.13 
+pydub==0.25.1
