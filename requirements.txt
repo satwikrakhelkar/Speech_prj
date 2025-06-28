@@ -1,5 +1,6 @@
 streamlit
-pydub
-SpeechRecognition
+pydub==0.25.1
+SpeechRecognition==3.8.1
 ffmpeg-python
 numpy
+pyaudio==0.2.13
